@@ -27,15 +27,6 @@
     <ClCompile Include="decNumber\decDouble.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="decNumber\decimal32.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="decNumber\decimal64.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="decNumber\decimal128.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="decNumber\decNumber.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -57,15 +48,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="decNumber\decDPD.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="decNumber\decimal32.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="decNumber\decimal64.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="decNumber\decimal128.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="decNumber\decNumber.h">

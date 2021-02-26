@@ -33,9 +33,6 @@
     </ClCompile>
     <ClCompile Include="decNumber\decContext.c" />
     <ClCompile Include="decNumber\decDouble.c" />
-    <ClCompile Include="decNumber\decimal128.c" />
-    <ClCompile Include="decNumber\decimal32.c" />
-    <ClCompile Include="decNumber\decimal64.c" />
     <ClCompile Include="decNumber\decNumber.c" />
     <ClCompile Include="decNumber\decPacked.c" />
     <ClCompile Include="decNumber\decQuad.c" />
@@ -45,9 +42,6 @@
     <ClInclude Include="decNumber\decContext.h" />
     <ClInclude Include="decNumber\decDouble.h" />
     <ClInclude Include="decNumber\decDPD.h" />
-    <ClInclude Include="decNumber\decimal128.h" />
-    <ClInclude Include="decNumber\decimal32.h" />
-    <ClInclude Include="decNumber\decimal64.h" />
     <ClInclude Include="decNumber\decNumber.h" />
     <ClInclude Include="decNumber\decNumberLocal.h" />
     <ClInclude Include="decNumber\decPacked.h" />
