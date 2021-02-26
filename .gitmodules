@@ -1,0 +1,3 @@
+[submodule "decNumber"]
+	path = decNumber
+	url = //nas/Home/Git/N/decNumber

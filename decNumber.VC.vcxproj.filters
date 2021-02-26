@@ -14,4 +14,74 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="decNumber\decBasic.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="decNumber\decCommon.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="decNumber\decContext.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="decNumber\decDouble.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="decNumber\decimal32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="decNumber\decimal64.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="decNumber\decimal128.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="decNumber\decNumber.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="decNumber\decPacked.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="decNumber\decQuad.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="decNumber\decSingle.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="decNumber\decContext.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="decNumber\decDouble.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="decNumber\decDPD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="decNumber\decimal32.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="decNumber\decimal64.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="decNumber\decimal128.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="decNumber\decNumber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="decNumber\decNumberLocal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="decNumber\decPacked.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="decNumber\decQuad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="decNumber\decSingle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
