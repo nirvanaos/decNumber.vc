@@ -7,16 +7,28 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "decNumber.VC", "decNumber.V
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug MD|x64 = Debug MD|x64
+		Debug MD|x86 = Debug MD|x86
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
+		Release MD|x64 = Release MD|x64
+		Release MD|x86 = Release MD|x86
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B176788-050F-47CE-81D7-5F128F8A7688}.Debug MD|x64.ActiveCfg = Debug MD|x64
+		{1B176788-050F-47CE-81D7-5F128F8A7688}.Debug MD|x64.Build.0 = Debug MD|x64
+		{1B176788-050F-47CE-81D7-5F128F8A7688}.Debug MD|x86.ActiveCfg = Debug MD|Win32
+		{1B176788-050F-47CE-81D7-5F128F8A7688}.Debug MD|x86.Build.0 = Debug MD|Win32
 		{1B176788-050F-47CE-81D7-5F128F8A7688}.Debug|x64.ActiveCfg = Debug|x64
 		{1B176788-050F-47CE-81D7-5F128F8A7688}.Debug|x64.Build.0 = Debug|x64
 		{1B176788-050F-47CE-81D7-5F128F8A7688}.Debug|x86.ActiveCfg = Debug|Win32
 		{1B176788-050F-47CE-81D7-5F128F8A7688}.Debug|x86.Build.0 = Debug|Win32
+		{1B176788-050F-47CE-81D7-5F128F8A7688}.Release MD|x64.ActiveCfg = Release MD|x64
+		{1B176788-050F-47CE-81D7-5F128F8A7688}.Release MD|x64.Build.0 = Release MD|x64
+		{1B176788-050F-47CE-81D7-5F128F8A7688}.Release MD|x86.ActiveCfg = Release MD|Win32
+		{1B176788-050F-47CE-81D7-5F128F8A7688}.Release MD|x86.Build.0 = Release MD|Win32
 		{1B176788-050F-47CE-81D7-5F128F8A7688}.Release|x64.ActiveCfg = Release|x64
 		{1B176788-050F-47CE-81D7-5F128F8A7688}.Release|x64.Build.0 = Release|x64
 		{1B176788-050F-47CE-81D7-5F128F8A7688}.Release|x86.ActiveCfg = Release|Win32
