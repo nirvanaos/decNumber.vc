@@ -12,16 +12,24 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug LLVM|x64 = Debug LLVM|x64
+		Debug LLVM|x86 = Debug LLVM|x86
 		Debug MD|x64 = Debug MD|x64
 		Debug MD|x86 = Debug MD|x86
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
+		Release LLVM|x64 = Release LLVM|x64
+		Release LLVM|x86 = Release LLVM|x86
 		Release MD|x64 = Release MD|x64
 		Release MD|x86 = Release MD|x86
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B176788-050F-47CE-81D7-5F128F8A7688}.Debug LLVM|x64.ActiveCfg = Debug LLVM|x64
+		{1B176788-050F-47CE-81D7-5F128F8A7688}.Debug LLVM|x64.Build.0 = Debug LLVM|x64
+		{1B176788-050F-47CE-81D7-5F128F8A7688}.Debug LLVM|x86.ActiveCfg = Debug LLVM|Win32
+		{1B176788-050F-47CE-81D7-5F128F8A7688}.Debug LLVM|x86.Build.0 = Debug LLVM|Win32
 		{1B176788-050F-47CE-81D7-5F128F8A7688}.Debug MD|x64.ActiveCfg = Debug MD|x64
 		{1B176788-050F-47CE-81D7-5F128F8A7688}.Debug MD|x64.Build.0 = Debug MD|x64
 		{1B176788-050F-47CE-81D7-5F128F8A7688}.Debug MD|x86.ActiveCfg = Debug MD|Win32
@@ -30,6 +38,10 @@ Global
 		{1B176788-050F-47CE-81D7-5F128F8A7688}.Debug|x64.Build.0 = Debug|x64
 		{1B176788-050F-47CE-81D7-5F128F8A7688}.Debug|x86.ActiveCfg = Debug|Win32
 		{1B176788-050F-47CE-81D7-5F128F8A7688}.Debug|x86.Build.0 = Debug|Win32
+		{1B176788-050F-47CE-81D7-5F128F8A7688}.Release LLVM|x64.ActiveCfg = Release LLVM|x64
+		{1B176788-050F-47CE-81D7-5F128F8A7688}.Release LLVM|x64.Build.0 = Release LLVM|x64
+		{1B176788-050F-47CE-81D7-5F128F8A7688}.Release LLVM|x86.ActiveCfg = Release LLVM|Win32
+		{1B176788-050F-47CE-81D7-5F128F8A7688}.Release LLVM|x86.Build.0 = Release LLVM|Win32
 		{1B176788-050F-47CE-81D7-5F128F8A7688}.Release MD|x64.ActiveCfg = Release MD|x64
 		{1B176788-050F-47CE-81D7-5F128F8A7688}.Release MD|x64.Build.0 = Release MD|x64
 		{1B176788-050F-47CE-81D7-5F128F8A7688}.Release MD|x86.ActiveCfg = Release MD|Win32
