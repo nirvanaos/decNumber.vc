@@ -350,6 +350,9 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release MD|x64'">
     <LinkIncremental>false</LinkIncremental>
   </PropertyGroup>
+  <PropertyGroup Label="Vcpkg">
+    <VcpkgEnabled>false</VcpkgEnabled>
+  </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug 2019|Win32'">
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
